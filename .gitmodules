@@ -1,3 +1,6 @@
 [submodule "Child"]
 	path = Child
 	url = git@github.com:cyberchimps/Child.git
+[submodule "Core"]
+	path = Core
+	url = git@github.com:cyberchimps/Child.git
