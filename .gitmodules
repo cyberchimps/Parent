@@ -1,6 +1,7 @@
 [submodule "Child"]
 	path = Child
 	url = git@github.com:cyberchimps/Child.git
-[submodule "Core"]
-	path = Core
+
+[submodule "Pro"]
+	path = Child/pro
 	url = git@github.com:cyberchimps/Child.git
